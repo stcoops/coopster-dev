@@ -1,1 +1,1 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coopster-dev&layout=compact&theme=dark&hide_border=true)
+![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=coopster-dev&show_icons=true&hide_border=true&theme=dark)
