@@ -39,6 +39,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coopster-dev&show_icons=true&locale=en" alt="coopster-dev" /></p>
 -->
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=coopster-dev&" alt="coopster-dev" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coopster-dev&" alt="coopster-dev" /></p>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=coopster-dev&repo=coopster.co.uk)](https://github.com/coopster-dev/coopster.co.uk)
